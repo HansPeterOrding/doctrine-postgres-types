@@ -1,5 +1,5 @@
 {
-    "name": "hanspeterording/doctrine-postgres-types",
+    "name": "hans-peter-ording/doctrine-postgres-types",
     "description": "Provide some common postgres types for doctrine",
     "license": "MIT",
     "authors": [
